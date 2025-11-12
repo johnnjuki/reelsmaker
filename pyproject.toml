@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "autoreelsmaker"
+name = "reelsmaker"
 
 version = "0.1.0"
 description = ""
@@ -41,4 +41,3 @@ cuid2 = "^2.0.1"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
-package-mode = false
